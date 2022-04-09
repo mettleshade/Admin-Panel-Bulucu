@@ -1,0 +1,48 @@
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB.vbproj.GenerateResource.Cache
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB.Form1.resources
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB.Form2.resources
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB.Resources.resources
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Form1.resources
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Form2.resources
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Resources.resources
+C:\Users\Mehmet\Desktop\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.vbproj.GenerateResource.Cache
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.exe
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.xml
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.pdb
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.exe
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.pdb
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.xml
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Form1.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Form2.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Resources.resources
+D:\Belgelerim\Belgelerim\V.B. Uygulamalar\Tamamlanmış Projeler\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\bin\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Form2.resources
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.Resources.resources
+C:\Users\Mehmet Bey\Desktop\VB Arşiv\Genel Programlar\Admin Paneli Bulucu\Admin Paneli Bulucu\WindowsApplication2\obj\x86\Debug\APB.vbproj.GenerateResource.Cache
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\bin\Debug\APB - Mettleshade.exe
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\bin\Debug\APB - Mettleshade.pdb
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\bin\Debug\APB - Mettleshade.xml
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB.Form2.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB.Resources.resources
+C:\Users\Mehmet Bey\Desktop\V.Basic Arşiv\Program Kurulum Dosyaları\Admin Paneli Bulucu FİNAL\WindowsApplication2\obj\x86\Debug\APB.vbproj.GenerateResource.Cache
